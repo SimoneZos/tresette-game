@@ -36,10 +36,11 @@ A complete implementation of the traditional Italian card game "TreSette" develo
 - Java JDK 17 or higher
 - Git
 
-### Compilation & Execution
+### Quick Start
 ```bash
-# Clone repository
+# Clone the repository
 git clone https://github.com/SimoneZos/tresette-game.git
 cd tresette-game
 
-# Open in preferred IDE (Eclipse/IntelliJ) and run the project
+# Import as existing project in Eclipse/IntelliJ
+# Run src/launcher/Main.java or JTresette.java
